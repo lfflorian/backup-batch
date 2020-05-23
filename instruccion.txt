@@ -1,0 +1,1 @@
+robocopy (ruta origen) (ruta destino + capeta) /mir /log:(ruta-log.txt)
